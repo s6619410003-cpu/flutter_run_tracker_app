@@ -1,16 +1,12 @@
 # flutter_run_tracker_app
 
-A new Flutter project.
+แอปบันทึกการวิ่ง
 
-## Getting Started
+<img width="300" src="https://github.com/user-attachments/assets/ff7fdd66-2f2f-44d1-bf64-da05e7200931" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/9377ff11-ab16-4b19-9987-dcc0ab593c53" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/a13926ad-2fd8-4462-8fc0-fa9e80794b31" />
+<br /><br /><br />
+<img width="300" src="https://github.com/user-attachments/assets/f8359243-2ee1-4e10-be4f-9cbff197c668" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
